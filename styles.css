@@ -1,14 +1,30 @@
 body {
 font-family: "Helvetica", sans-serif;
+background-color: #F7F9FA;
+color: #141C25;
 }
 h2 {
-color: #7A0019;
+color: #354D62;
 }
 #contact {
-background-color: #FFDE7A;
+background-color: #E3E8EC;
 padding: 2%;
+}
+a {
+color: #354D62;
 }
 img {
 max-width: 100%;
 height: auto;
+}
+table {
+border-collapse: collapse;
+}
+th, td {
+border: 1px solid #98A4AD;
+padding: 8px;
+}
+figure {
+margin-left: 0;
+margin-right: 0;
 }
